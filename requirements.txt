@@ -1,0 +1,7 @@
+django
+djongo
+djangorestframework
+PyJWT==2.1.0
+djangorestframework-simplejwt==4.8.0
+requests
+python-decouple
